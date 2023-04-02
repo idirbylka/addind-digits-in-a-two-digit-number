@@ -1,4 +1,4 @@
-wo_digit_number = input("Type a two digit number:\n")
+two_digit_number = input("Type a two digit number:\n")
 print(type(two_digit_number))
 
 
